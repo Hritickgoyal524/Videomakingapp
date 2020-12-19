@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "952692248619",
+    "project_id": "videouplo-291b0",
+    "storage_bucket": "videouplo-291b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952692248619:android:c46aa07a5ac1e7aefb1a6e",
+        "android_client_info": {
+          "package_name": "com.example.videomalingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952692248619-3s3n11qsd5jivbj88c3gcbljs5kd0h4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD9SCS7JqNO1zvST8gyf5Vkhunt13mwMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952692248619-3s3n11qsd5jivbj88c3gcbljs5kd0h4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
